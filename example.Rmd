@@ -14,7 +14,7 @@ output:
       after_body: ~/Dropbox/teaching/table-of-contents.tex
 ---
 
-# Pop Song Narratives
+# Pop Songs and Political Science
 ## Morning Train
 
 ### Sheena Easton and Game Theory
